@@ -1,4 +1,11 @@
 Esta es la historia de Aejandro Uribe
 Ingeniero Civil de 28 años
 
-Mañana nos enfocaremos en su vida laboral
+Le gustan los drones
+Le gusta la tecnología
+
+Hoy hablaremos de su vida y obra maestra
+
+Estos son cambios para verificar el funcionamiento del git --rm
+
+Estos son los últimos cambios para borrar del staging lo que acabo de escribir
